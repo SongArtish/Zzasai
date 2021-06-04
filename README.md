@@ -13,6 +13,30 @@
 
 
 
+## ⚙️ 기술스택
+
+- Frontend
+  - Vue
+  - HTML, CSS
+  - JavaScript
+  - Bootstrap
+  - node.js
+- Backend
+  - Spring Tool Suite
+  - Java
+  - MySQL
+  - Swagger
+- ETC.
+  - Web Socket
+  - OpenVidu
+  - WebRTC
+
+![tech](documents/img/tech.png)
+
+
+
+
+
 ## 📑 프로젝트 소개
 
 - 진행기간 : 2021.04.12 ~ 2021.05.21
@@ -61,25 +85,6 @@
     ![card](documents/img/card.png)
 
 
-
-## ⚙️ 개발환경 & 기술스택
-
-- Frontend
-  - Vue
-  - HTML, CSS, JavaScript
-  - Bootstrap
-  - node.js
-- Backend
-  - Spring Tool Suite
-  - Java
-  - MySQL
-  - Swagger
-- ETC.
-  - Web Socket
-  - OpenVidu
-  - WebRTC
-
-![tech](documents/img/tech.png)
 
 
 
@@ -143,8 +148,6 @@
   ```bash
   nodemon server.js
   ```
-
-**openvidu**
 
 
 
